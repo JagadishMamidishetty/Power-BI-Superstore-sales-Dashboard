@@ -4,7 +4,7 @@
 
 This Power BI project is a comprehensive dashboard presenting insights derived from the Superstore sales data. The dashboard includes various visualizations such as area charts, map charts, bar charts, and donut charts. The data has been cleaned and transformed to provide a clear and interactive view of the Superstore's sales performance.
 
- ![Dashboard Preview](https://example.com/path/to/your/image.png)
+ ![Dashboard Preview](https://github.com/JagadishMamidishetty/Sales-Dashboard/blob/main/powerbi%20sales%20dashboard1_page-0001.jpg)
 
 ## Features
 
